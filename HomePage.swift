@@ -5,4 +5,4 @@
 //  Created by Wiwi Oktriani on 08/10/26.
 //
 
-let x = 10
+let age = 10
