@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		CB057C7B30779A5C00B432E2 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB057C7A30779A5400B432E2 /* HomePage.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		CB057C62307799A100B432E2 /* iOSLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CB057C7A30779A5400B432E2 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		CB057C59307799A100B432E2 = {
 			isa = PBXGroup;
 			children = (
+				CB057C7A30779A5400B432E2 /* HomePage.swift */,
 				CB057C64307799A100B432E2 /* iOSLearning */,
 				CB057C63307799A100B432E2 /* Products */,
 			);
@@ -132,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB057C7B30779A5C00B432E2 /* HomePage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
